@@ -1,0 +1,17 @@
+#ifndef EaseMobPCH_pch
+#define EaseMobPCH_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "EaseMob.h"             //环信 SDK
+#import "LNButton.h"            //按钮
+#import "MBProgressHUD.h"       //弹窗
+#import "UIView+LNFrame.h"      //简化 frame 相关的操作
+
+#define SCREEN_WIDTH  [UIScreen mainScreen].bounds.size.width   //缩写屏幕宽
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height  //缩写屏幕高
+
+//使 NSLog 输出更简洁
+#define NSLog(FORMAT, ...) fprintf(stderr,"%s\n",[[NSString stringWithFormat:FORMAT, ##__VA_ARGS__] UTF8String]);
+
+#endif
