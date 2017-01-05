@@ -2,6 +2,10 @@
 
 Practice EaseMob framework and Objective-C by Xcode to realize a basic chat app.
 
+# Attention
+
+This project maybe cannot run now because of the server error, but it codes right :D
+
 # Usage
 
 1. This project is only implemented by Xcode on Mac, so please make sure you have installed Xcode on your Mac.
