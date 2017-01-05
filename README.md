@@ -2,9 +2,13 @@
 
 Practice EaseMob framework and Objective-C by Xcode to realize a basic chat app.
 
+# Present
+
+![](https://ww2.sinaimg.cn/large/006y8lVagw1fbfuz621ikg30g90u0e7g.gif)
+
 # Attention
 
-This project maybe cannot run now because of the server error, but it codes right :D
+Sometimes this project maybe cannot run now because of the server error, but it codes right :D
 
 # Usage
 
